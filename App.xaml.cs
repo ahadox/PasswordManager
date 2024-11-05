@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            App.Current.MainPage = new Views.LoginView();
+            App.Current.MainPage = new Views.NewUserView();
         }
     }
 }
